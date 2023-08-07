@@ -24,4 +24,4 @@ export default function MovieIdPage({ params }) {
       </div>
     </div>
   );
-}
+};
